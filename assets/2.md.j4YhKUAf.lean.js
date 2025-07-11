@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,ae as n}from"./chunks/framework.7AVFqB09.js";const u=JSON.parse('{"title":"More Than Meets the Eye","description":"","frontmatter":{},"headers":[],"relativePath":"2.md","filePath":"2.md"}'),o={name:"2.md"};function s(r,e,l,c,h,d){return t(),i("div",null,e[0]||(e[0]=[n("",31)]))}const g=a(o,[["render",s]]);export{u as __pageData,g as default};
