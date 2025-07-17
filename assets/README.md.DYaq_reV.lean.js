@@ -1,1 +1,0 @@
-import{_ as i,c as a,o as t,ae as h}from"./chunks/framework.7AVFqB09.js";const o=JSON.parse('{"title":"Deploy","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function l(e,s,p,k,d,r){return t(),a("div",null,s[0]||(s[0]=[h("",2)]))}const E=i(n,[["render",l]]);export{o as __pageData,E as default};
